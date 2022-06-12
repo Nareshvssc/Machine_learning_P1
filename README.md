@@ -19,7 +19,7 @@ git push
 for more command use this - https://git-scm.com/docs/gittutorial
 
 heroku email id -narehs
-apikey = 025adf94-0d48-4c18-ba22-8f1a22c22533
+
 app name = helloworld23
 
 BUILD THE DOCKER IMAGE
