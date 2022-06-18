@@ -42,3 +42,7 @@ To stop docker container
 
 docker stop <container_id>
 
+create folder housing 
+create new file setup.py in main directory
+
+python setup.py install
